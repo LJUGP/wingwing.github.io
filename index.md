@@ -23,7 +23,7 @@
 <br><br>
 
 # [관련 이미지]
-<img src="./img/관련이미지.jpg">
+<img src="./img/관련_이미지.jpg">
 
 <br><br>
 
