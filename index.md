@@ -23,8 +23,7 @@
 <br><br>
 
 # [관련 이미지]
-<img src="./img/관련_이미지.jpg" height="400">
-<img src="./img/관련_이미지_2.jpg" height="400">
+<img src="./img/관련_이미지.jpg" height="500" /> <img src="./img/관련_이미지_2.jpg" height="500" />
 
 <br><br>
 
